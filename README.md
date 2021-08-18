@@ -4,7 +4,7 @@ In this project, you'll use Python - and the skills we've developed throughout t
 
 When you're finished, it'll look like this:
 
-[gif in action]
+![iamge](media/test_neo.jpg)
 
 ## Overview
 
